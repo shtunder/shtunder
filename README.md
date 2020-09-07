@@ -1,4 +1,4 @@
-![Image](https://github.com/shtunder/shtunder/blob/master/shtunder.png)
+![Image](https://github.com/shtunder/shtunder/blob/master/andrey.png)
 <!--
 **shtunder/shtunder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
