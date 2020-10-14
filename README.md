@@ -12,6 +12,13 @@
 * Maven, Gradle
 * IntelliJ IDEA
 * Git 
+
+## 📬 Get in touch
+
+- LinkedIn: [linkedin.com/in/shtunder][1]
+
+[1]: https://www.linkedin.com/in/shtunder/
+
 <!--
 **shtunder/shtunder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
