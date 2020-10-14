@@ -1,4 +1,16 @@
 ![Image](https://github.com/shtunder/shtunder/blob/master/andrey.png)
+
+**Technologies and tools:**
+• Java 8, Java EE
+• Spring / Spring Boot
+• REST, JSON
+• Apache Tomcat
+• MySQL
+• HTML / CSS / JavaScript
+• JSP
+• Maven, Gradle
+• IntelliJ IDEA
+• Git 
 <!--
 **shtunder/shtunder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
