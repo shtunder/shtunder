@@ -1,6 +1,6 @@
 ![Image](https://github.com/shtunder/shtunder/blob/master/andrey.png)
 
-**Technologies and tools:**
+## Technologies and tools:
 
 * Java 8, Java EE
 * Spring / Spring Boot
