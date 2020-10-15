@@ -6,7 +6,7 @@
 * Spring / Spring Boot
 * REST, JSON
 * Apache Tomcat
-* MySQL
+* MySQL, PostgreSQL
 * HTML / CSS / JavaScript
 * JSP
 * Maven, Gradle
