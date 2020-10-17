@@ -3,7 +3,7 @@
 ## :rocket: Technologies and tools:
 
 * Java 8, Java EE
-* Spring / Spring Boot
+* Spring (Core, MVC) / Spring Boot
 * REST, JSON
 * Apache Tomcat
 * MySQL, PostgreSQL
