@@ -2,7 +2,7 @@
 
 ## :rocket: Technologies and tools:
 
-* Java 11, Java EE
+* Java 11
 * Spring Framework (Spring Boot, Spring Data JPA, Spring Security, Spring Core, Spring MVC)
 * Hibernate
 * REST
