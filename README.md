@@ -2,16 +2,24 @@
 
 ## :rocket: Technologies and tools:
 
-* Java 8, Java EE
-* Spring (Core, MVC) / Spring Boot
-* REST, JSON
+* Java 11, Java EE
+* Spring Framework (Spring Boot, Spring Data JPA, Spring Security, Spring Core, Spring MVC)
+* Hibernate
+* REST
+* JSON, XML
+* Apache Camel
+* Apache Kafka
 * Apache Tomcat
-* MySQL, PostgreSQL
+* SQL, PostgreSQL, MySQL, Oracle Database
 * HTML / CSS / JavaScript
-* JSP
+* JUnit 5, Mockito
 * Maven, Gradle
-* IntelliJ IDEA
-* Git 
+* IntelliJ IDEA, Android Studio
+* AWS, Oracle Cloud, Heroku
+* Docker
+* Jenkins
+* Git (GitHub, GitLab)
+* Jira, YouTrack, Confluence
 
 ## 📬 Get in touch
 
